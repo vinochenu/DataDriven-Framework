@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Suite name="Datadriven Handson">
+<test name="Datadriven Example 1">
+<Classes>
+<class name="handson_DDF.DataProvider_Example_1">
+</class>
+</Classes>
+</test>
+
+
+
+
+
+
+
+
+</Suite>
